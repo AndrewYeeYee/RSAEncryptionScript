@@ -1,2 +1,5 @@
 # ignore generated keys
 *.pem
+
+# ignore text files
+*.txt
